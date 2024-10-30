@@ -25,8 +25,8 @@ The dataset is stored in an Excel file named `Raw Data.xlsx`. It includes the fo
 ## Project Overview
 This Excel project involves creating a comprehensive dashboard for bike sales, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring bike sales insights based on various demographics.
 
-![Excel](![Screenshot 2024-10-30 110404](https://github.com/user-attachments/assets/6a77bcfd-b545-404a-beb6-d1411e252efc)
-)
+![Screenshot 2024-10-30 110404](https://github.com/user-attachments/assets/6a77bcfd-b545-404a-beb6-d1411e252efc)
+
 
 ## Data Set
 Dataset Used - https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
