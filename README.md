@@ -22,13 +22,25 @@ The dataset is stored in an Excel file named `Raw Data.xlsx`. It includes the fo
 - Age
 - Age Bracket
 - Purchased Bike
-
 ## Project Overview
+This Excel project involves creating a comprehensive dashboard for bike sales, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring bike sales insights based on various demographics.
 
-This project involves the following steps and components:
+![Excel](![Screenshot 2024-10-30 110404](https://github.com/user-attachments/assets/6a77bcfd-b545-404a-beb6-d1411e252efc)
+)
 
-- **Data Cleaning and Preprocessing**: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
+## Data Set
+Dataset Used - https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
+- The project utilizes the Bike Buyers 1000 dataset.
 
-- **Pivot Tables and Charts**: Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset.
+## Key Steps in the Project
+1. **Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
+2. **Create Working Sheet:** Copy raw data to a working sheet for manipulation, keeping the original data intact.
+3. **Pivot Tables:** Utilize pivot tables to summarize and analyze data for visualization.
+4. **Visualizations:** Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
+5. **Dashboard Creation:** Copy visualizations onto a dashboard sheet for a consolidated view.
+6. **Chart Customization:** Adjust chart titles, axis labels, and formatting for better clarity.
 
-- **Sales Analysis Dashboard**: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.
+## Dashboard Components
+- **Average Income by Gender and Bike Purchase:** Understand the average income of individuals based on gender and whether they purchased a bike.
+- **Customer Commute Distance:** Analyze the distribution of customers based on their commute distance and bike purchase status.
+- **Customer Age Brackets:** Explore bike sales across different age brackets, categorizing customers as adolescent, middle-aged, and old.
