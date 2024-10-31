@@ -28,7 +28,7 @@ The dataset is stored in an Excel file named `Raw Data.xlsx`. It includes the fo
 ## Project Overview
 This project involves creating an interactive dashboard to explore bike sales insights by demographics.
 
-![Screenshot 2024-10-30 110404](https://github.com/user-attachments/assets/6a77bcfd-b545-404a-beb6-d1411e252efc)
+![Screenshot 2024-10-30 110404](Dashboard.png)
 
 
 ## Data Set
